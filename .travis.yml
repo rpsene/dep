@@ -76,4 +76,3 @@ jobs:
       script: skip
       before_deploy:
         - ./hack/build-all.bash
-        
